@@ -24,10 +24,10 @@ function App() {
           <div className="flex flex-col md:flex-row items-center">
             <div className="md:w-1/2">
               <h1 className="text-4xl md:text-6xl font-bold text-white leading-tight">
-                AI-Powered Medical Diagnostics for Healthcare Professionals
+                AI Co-pilot for Healthcare Professionals
               </h1>
               <p className="mt-4 text-xl text-blue-100">
-                Transform weeks of waiting into minutes of clarity with our advanced AI diagnostic platform.
+                Helps Healthcare Providers in faster diagnostics.
               </p>
             </div>
             <div className="md:w-1/2 mt-10 md:mt-0">
@@ -85,14 +85,14 @@ function App() {
                 <Database className="h-8 w-8 text-blue-600" />
               </div>
               <h3 className="mt-4 text-lg font-semibold">Upload Reports</h3>
-              <p className="mt-2 text-gray-600">Submit your medical reports and tests</p>
+              <p className="mt-2 text-gray-600">Upload Patient's medical reports and tests</p>
             </div>
             <div className="flex flex-col items-center text-center">
               <div className="bg-white p-6 rounded-full shadow-lg">
                 <Brain className="h-8 w-8 text-blue-600" />
               </div>
               <h3 className="mt-4 text-lg font-semibold">AI Analysis</h3>
-              <p className="mt-2 text-gray-600">Multiple AI experts analyze your data</p>
+              <p className="mt-2 text-gray-600">Multiple AI experts analyze data</p>
             </div>
             <div className="flex flex-col items-center text-center">
               <div className="bg-white p-6 rounded-full shadow-lg">
@@ -106,7 +106,7 @@ function App() {
                 <Hospital className="h-8 w-8 text-blue-600" />
               </div>
               <h3 className="mt-4 text-lg font-semibold">Take Action</h3>
-              <p className="mt-2 text-gray-600">Share results with your healthcare provider</p>
+              <p className="mt-2 text-gray-600">Shares results with the healthcare provider</p>
             </div>
           </div>
         </div>
